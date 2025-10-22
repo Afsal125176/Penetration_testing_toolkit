@@ -196,10 +196,3 @@ This repository is educational. If you want to contribute:
 * Submit a pull request with tests and documentation.
 * Keep contributions legal and ethical — no features intended for clandestine malicious use
 
----
-
-If you’d like, I can:
-
-* Generate `requirements.txt`, `LICENSE` (MIT) and a polished `README.md` file ready to drop into your repo, **or**
-* Update the README with instructions specifically tailored for Kali Linux or for running the toolkit against a realistic lab setup. Which would you prefer?
-# Penetration_testing_toolkit
