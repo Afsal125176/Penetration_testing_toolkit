@@ -1,0 +1,18 @@
+Here’s a simple, practical `requirements.txt` for the toolkit (keeps the core dependency minimal plus a couple of niceties):
+
+```
+requests>=2.28.0
+tqdm>=4.65.0
+colorama>=0.4.6
+```
+
+* `requests` — used by the brute-forcer for HTTP requests.
+* `tqdm` — optional progress bars for long operations (wordlist brute force, scanning).
+* `colorama` — optional cross-platform colored terminal output.
+
+Save this into your project root as `requirements.txt`, then install with:
+
+```bash
+pip install -r requirements.txt
+```
+
