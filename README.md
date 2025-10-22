@@ -1,3 +1,18 @@
+
+#Cyber security 
+ 
+**COMPANY**:CODTECH SOLUTIONS
+
+**NANE** : AFSAL.N
+
+**INTERN ID**:COD123
+
+**DOMAIN**:CYBER SECURITY 
+
+**DURATION**: 1 month
+
+**MENTOR**:NEELA SANTHOSH 
+
 # Penetration Testing Toolkit
 
 **A modular, Python-based toolkit** for basic penetration testing tasks — built as an internship task example.
